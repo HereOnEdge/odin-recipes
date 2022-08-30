@@ -1,1 +1,1 @@
-# odin-recipes
+a simple project for training HTMl and CSS by building a recipe website
