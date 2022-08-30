@@ -1,1 +1,1 @@
-a simple project for training HTMl and CSS by building a recipe website
+a simple project for training HTMl and CSS by building a recipe website. also trying to figure out git and working only with command line. so don't expect a very good website as a result. it's just for practice and nothing to show-off
